@@ -1,0 +1,23 @@
+{
+  "name": "CodeKatas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "!convertTitleToFileName.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aed1988/codeKata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aed1988/codeKata/issues"
+  },
+  "homepage": "https://github.com/aed1988/codeKata#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
